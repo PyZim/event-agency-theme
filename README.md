@@ -1,2 +1,2 @@
 # event-agency-theme
-Theme for events based on Startbootstrap's (https://startbootstrap.com/theme/agency "Startboostrap")
+Theme for events based off Startbootstrap's  [Agency](https://startbootstrap.com/theme/agency "Startboostrap") theme.
