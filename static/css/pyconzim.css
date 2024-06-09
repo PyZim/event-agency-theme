@@ -7,7 +7,7 @@
 
 .bg-dark-zw {
     --bs-bg-opacity: 10;
-    background-color:var(--zw-green) !important;
+    background-color:var(--zw-black) !important;
 }
 
 a {
