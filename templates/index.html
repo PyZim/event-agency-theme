@@ -52,15 +52,15 @@
 {% else %}
 <section id="about" class="page-section">
     <div class="container">
-    {% if pages %}
-    <h2>Pages</h2>
+    {% if articles %}
+    <h2>Articles</h2>
     <ul>
     {% for page in pages %}
         <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
     {% endfor %}
     </ul>
     {% else %}
-    <p>This site currently has no content.</p>
+    <h4>This Blog currently has no articles.</h4>
     {% endif %}
     </div>
 </section>
